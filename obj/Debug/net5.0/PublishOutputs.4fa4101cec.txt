@@ -1,0 +1,5 @@
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.dll
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.deps.json
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.runtimeconfig.json
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.pdb

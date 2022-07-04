@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>RandomPass</id>
+    <version>1.0.0</version>
+    <authors>RandomPass</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="/home/noah/RiderProjects/RandomPass/obj/DotnetToolSettings.xml" target="tools/net5.0/any/DotnetToolSettings.xml" />
+    <file src="/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.dll" target="tools/net5.0/any/RandomPass.dll" />
+    <file src="/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.deps.json" target="tools/net5.0/any/RandomPass.deps.json" />
+    <file src="/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.runtimeconfig.json" target="tools/net5.0/any/RandomPass.runtimeconfig.json" />
+    <file src="/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/publish/RandomPass.pdb" target="tools/net5.0/any/RandomPass.pdb" />
+  </files>
+</package>

@@ -1,0 +1,16 @@
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/RandomPass
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/RandomPass.deps.json
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/RandomPass.runtimeconfig.json
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/RandomPass.runtimeconfig.dev.json
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/RandomPass.dll
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/ref/RandomPass.dll
+/home/noah/RiderProjects/RandomPass/bin/Debug/net5.0/RandomPass.pdb
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.csproj.AssemblyReference.cache
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.GeneratedMSBuildEditorConfig.editorconfig
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.AssemblyInfoInputs.cache
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.AssemblyInfo.cs
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.csproj.CoreCompileInputs.cache
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.dll
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/ref/RandomPass.dll
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.pdb
+/home/noah/RiderProjects/RandomPass/obj/Debug/net5.0/RandomPass.genruntimeconfig.cache
